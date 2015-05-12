@@ -1,0 +1,63 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "e47b8feda124bdacb8ad79038082d8ef",
+    "packages": [
+        {
+            "name": "zzbomb/groupme",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zzbomb/GroupMePHP.git",
+                "reference": "b6a5c5f8a175f05aca5c30b8446811a7361dddf5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zzbomb/GroupMePHP/zipball/b6a5c5f8a175f05aca5c30b8446811a7361dddf5",
+                "reference": "b6a5c5f8a175f05aca5c30b8446811a7361dddf5",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "GroupMePHP": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "John Spaetzel",
+                    "email": "john.spaetzel@gmail.com",
+                    "homepage": "http://johnspaetzel.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Groupme Library for PHP",
+            "homepage": "https://github.com/zzbomb/GroupMePHP",
+            "keywords": [
+                "groupme",
+                "php"
+            ],
+            "time": "2015-01-15 00:38:06"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "zzbomb/groupme": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

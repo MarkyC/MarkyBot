@@ -1,0 +1,15 @@
+{
+  "name": "marcocirillo.name/marky-bot",
+  "description": "A bot for GroupMe",
+  "minimum-stability": "dev",
+  "license": "public domain",
+  "authors": [
+    {
+      "name": "Marco Cirillo",
+      "email": "mmmarcooo@gmail.com"
+    }
+  ],
+  "require": {
+    "zzbomb/groupme": "dev-master"
+  }
+}
